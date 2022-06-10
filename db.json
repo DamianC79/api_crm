@@ -1,28 +1,12 @@
 {
   "clientes": [
     {
-      "nombre": "MERN ACTUALIZADO",
-      "empresa": "MerN",
-      "email": "correo@correo.com",
-      "telefono": "65449992",
-      "notas": "",
-      "id": 1
-    },
-    {
       "nombre": "Eva",
       "empresa": "MERN",
       "email": "asd@asd.com",
       "telefono": "009878923",
       "notas": "",
       "id": 3
-    },
-    {
-      "nombre": "Lothar",
-      "empresa": "Ventormenta",
-      "email": "alianza@correo.com",
-      "telefono": "",
-      "notas": "Quiere mejorar la Alianza",
-      "id": 4
     },
     {
       "nombre": "Filandriel",
